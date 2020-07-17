@@ -1,0 +1,16 @@
+{
+    "name": "sdesai02/test-packet",
+    "require": {
+        "php": "^7.0"
+    },
+    "authors": [
+        {
+            "name": "Shakuntala Desai",
+            "email": "sdesai02@xento.com"
+        }
+		
+    ],
+	"autoload": {
+			"psr-4": {"sdesai02\\FirstPackage\\": "src/"}
+	}
+}
